@@ -1,7 +1,7 @@
 {
     "name": "egenius",
     "version": "0.1.0",
-    "homepage": "https://shihhh108.github.io/shihhh108.github.io",
+    "homepage": "/webapp",
     "proxy": "http://10.1.249.174",
     "private": true,
     "dependencies": {
